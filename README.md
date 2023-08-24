@@ -2,7 +2,8 @@
 
 # Project 2
 
-David and I worked on this mini project together as a group.
+
+- David and I worked on this mini project together as a group
 
 Instructions The instructions for this mini project are divided into the following subsections:
 
