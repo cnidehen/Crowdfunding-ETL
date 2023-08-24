@@ -5,7 +5,8 @@
 
 - David and I worked on this mini project together as a group
 
-Instructions The instructions for this mini project are divided into the following subsections:
+Instructions 
+The instructions for this mini project are divided into the following subsections:
 
 Create the Category and Subcategory DataFrames Create the Campaign DataFrame Create the Contacts DataFrame Create the Crowdfunding Database Create the Category and Subcategory DataFrames Extract and transform the crowdfunding.xlsx Excel data to create a category DataFrame that has the following columns:
 
